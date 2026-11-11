@@ -1,0 +1,3 @@
+[submodule "code-refs/hyperedge-percolation"]
+	path = code-refs/hyperedge-percolation
+	url = https://github.com/BenedekB17/CommunityDetection-HyperedgePercolation

@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "hypernet"
+version = "0.0.1"
+description = "Hypergraph community detection through hyperedge percolation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "scipy",
+    "networkx",
+    "matplotlib>=3.10.9",
+    "pandas>=2.3.3",
+]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/hypernet"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
