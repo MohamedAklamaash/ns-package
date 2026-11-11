@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{battiston2020}
+Federico Battiston, Giulia Cencetti, Iacopo Iacopini, Vito Latora, Maxime
+  Lucas, Alice Patania, Jean-Gabriel Young, and Giovanni Petri.
+\newblock Networks beyond pairwise interactions: structure and dynamics.
+\newblock {\em Physics Reports}, 874, 2020.
+
+\bibitem{chodrow2021}
+Philip~S. Chodrow, Nate Veldt, and Austin~R. Benson.
+\newblock Generative hypergraph clustering: from blockmodels to modularity.
+\newblock {\em Science Advances}, 7, 2021.
+
+\bibitem{gates2019}
+Alexander~J. Gates, Ian~B. Wood, William~P. Hetrick, and Yong-Yeol Ahn.
+\newblock Element-centric clustering comparison unifies overlaps and hierarchy.
+\newblock {\em Scientific Reports}, 9:8574, 2019.
+
+\bibitem{kovacs2025}
+Bianka Kov{\'a}cs, Barnab{\'a}s Benedek, and Gergely Palla.
+\newblock Community detection in hypergraphs through hyperedge percolation.
+\newblock {\em Scientific Reports}, 15:36032, 2025.
+\newblock arXiv:2504.15213.
+
+\bibitem{palla2005}
+Gergely Palla, Imre Der{\'e}nyi, Ill{\'e}s Farkas, and Tam{\'a}s Vicsek.
+\newblock Uncovering the overlapping community structure of complex networks in
+  nature and society.
+\newblock {\em Nature}, 435:814, 2005.
+
+\end{thebibliography}

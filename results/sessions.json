@@ -1,0 +1,26 @@
+[
+ {
+  "experiment": "check",
+  "submitted": 600,
+  "skipped": 0,
+  "failed": 0,
+  "processes": 40,
+  "seconds": 47.9
+ },
+ {
+  "experiment": "map",
+  "submitted": 2275,
+  "skipped": 0,
+  "failed": 0,
+  "processes": 40,
+  "seconds": 2546.7
+ },
+ {
+  "experiment": "real",
+  "submitted": 4,
+  "skipped": 0,
+  "failed": 0,
+  "processes": 40,
+  "seconds": 38.2
+ }
+]
