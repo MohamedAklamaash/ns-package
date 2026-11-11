@@ -47,4 +47,3 @@ Everything is in `hypernet/`. Source under `src/hypernet/`, tests under `tests/`
 - `results/` : CSVs, `REPORT.md`, `figures/`.
 - `slides/` : `build_deck_v4.py` builds `hyperedge_percolation_v4.pptx`.
 - `paper/` : `main.tex`, `main.pdf`.
-- `remote.sh` : syncs the repo to the 48-core machine and runs a command there.

@@ -1,0 +1,17 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Office lock files
+.~lock.*#
+
+# Python
+__pycache__/
+.venv/
+.pytest_cache/
